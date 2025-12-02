@@ -1,5 +1,7 @@
 # ClearCanvas AI
 
+🌐 **Live Website:** [https://clearcanvasai.vercel.app/](https://clearcanvasai.vercel.app/)
+
 **ClearCanvas AI** is a web-based utility tool that allows users to generate custom-sized transparent placeholder images instantly. It features an AI-powered smart resizing tool that helps users find the perfect dimensions for social media, devices, and print formats just by typing a description.
 
 ## ✨ Features
