@@ -99,7 +99,7 @@ Contributions are what make the open-source community such an amazing place to l
 **Rakibul Sagor**
 
   * GitHub: [@rakibulsagor](https://github.com/rakibulsagor)
-  * Twitter/X: [@rakibulsagor](https://www.google.com/search?q=https://twitter.com/rakibulsagor)
+  * Twitter/X: [@Rakibul_tssagor)](https://x.com/Rakibul_tssagor)
 
 -----
 
