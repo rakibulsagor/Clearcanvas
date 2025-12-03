@@ -1,0 +1,1 @@
+{"root":["./constants.ts","./types.ts","./vite-env.d.ts","./vite.config.ts","./services/geminiService.ts","./App.tsx","./index.tsx","./components/Button.tsx","./components/CanvasPreview.tsx","./components/DimensionControls.tsx"],"version":"5.9.3"}
