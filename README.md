@@ -1,12 +1,10 @@
+# ClearCanvas AI
 
+![License](https://img.shields.io/badge/license-MIT-blue) ![React](https://img.shields.io/badge/built%20with-React-61DAFB)
 
+Generate perfectly sized transparent templates to force any aspect ratio in your favorite AI image generators without memorizing pixel counts.
 
-# 🎨 ClearCanvas AI
-
-[](https://opensource.org/licenses/MIT)
-[](https://react.com/)
-[](http://makeapullrequest.com)
-[](https://www.google.com/search?q=https://twitter.com/rakibulsagor)
+<img width="985" height="546" alt="screenshot" src="https://github.com/rakibulsagor/clearcanvas/assets/kasgpas76218qwkuu287.png" />  
 
 **Stop letting AI generators force square aspect ratios on you.** ClearCanvas AI is a simple tool that generates perfectly sized transparent reference images to force other AI models (like Midjourney, DALL-E, or Stable Diffusion) to output the exact dimensions you need.
 
